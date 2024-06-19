@@ -1,4 +1,4 @@
-package OOP.practice;
+package OOP.practice.cat;
 
 public class Cat {
     private String name;

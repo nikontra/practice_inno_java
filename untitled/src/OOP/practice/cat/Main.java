@@ -1,7 +1,7 @@
-package OOP.practice;
+package OOP.practice.cat;
 
-import static OOP.practice.Cat.count;
-import static OOP.practice.Cat.countCats;
+import static OOP.practice.cat.Cat.count;
+import static OOP.practice.cat.Cat.countCats;
 
 public class Main {
     public static void main(String[] args) {
